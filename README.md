@@ -1,5 +1,13 @@
 # peerlistLeetCodeChallenge
-Submissions for Peerlist 30 Days LeetCode Challenge
+Submissions for [**Peerlist 30 Days LeetCode Challenge**](https://peerlist.io/blog/commentary/leetcode-challenge)
+
+### [Day 6 - Group Anagrams🔗](https://leetcode.com/problems/group-anagrams/)
+![lcday6](https://github.com/user-attachments/assets/a2fd4b88-eb55-4b1c-b35e-8860b87efdef)
+
+
+### [Day 5 -Find All Anagrams in a String🔗](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+![lcday5](https://github.com/user-attachments/assets/911a4238-9e3f-4390-9153-90f067b78027)
+
 
 ### [Day 4 - Product of Array Except Self🔗](https://leetcode.com/problems/product-of-array-except-self/description/)
 ![lcday4](https://github.com/user-attachments/assets/bd3f88ef-b327-415e-afb2-872fec72596a)
